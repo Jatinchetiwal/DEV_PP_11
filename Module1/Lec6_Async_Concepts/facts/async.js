@@ -1,0 +1,7 @@
+const fs = require("fs");
+console.log("hi");
+fs.readFile("./f1.txt",getData);
+function getData(error, data){
+console.log(data+"");
+}
+console.log("bye");
