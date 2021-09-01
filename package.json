@@ -1,5 +1,5 @@
 {
-  "name": "Dev_PP_11",
+  "name": "DEV_PP_11",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,8 @@
   "homepage": "https://github.com/Jatinchetiwal/DEV_PP_11#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.2.0",
     "request": "^2.88.2",
     "xlsx": "^0.17.1"
-  },
-  "devDependencies": {},
-  "description": ""
+  }
 }
